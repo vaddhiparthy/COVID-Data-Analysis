@@ -52,7 +52,7 @@ census_income['Label (Grouping)']
     #Remove !! in columns
 census_income.columns = census_income.columns.str.replace('!!', ' ')
     #Remove misc metrics
-census_income = census_income.iloc[2:12].reset_index(drop=True)
+census_income = census_income.iloc[2:14].reset_index(drop=True)
     #Include only total household data
 census_income = census_income.loc[:, 
         (census_income.columns.str.contains('Total')) | (census_income.columns.str.contains('Label'))]
