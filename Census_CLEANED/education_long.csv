@@ -1,0 +1,365 @@
+,State,variable,value
+0,Alabama ,Less than High School,489527.0
+1,Alaska ,Less than High School,39537.0
+2,Arizona ,Less than High School,713986.0
+3,Arkansas ,Less than High School,288266.0
+4,California ,Less than High School,4669295.0
+5,Colorado ,Less than High School,367781.0
+6,Connecticut ,Less than High School,266999.0
+7,Delaware ,Less than High School,75735.0
+8,District of Columbia ,Less than High School,44367.0
+9,Florida ,Less than High School,2047281.0
+10,Georgia ,Less than High School,1011098.0
+11,Hawaii ,Less than High School,84741.0
+12,Idaho ,Less than High School,119855.0
+13,Illinois ,Less than High School,1018437.0
+14,Indiana ,Less than High School,561939.0
+15,Iowa ,Less than High School,188716.0
+16,Kansas ,Less than High School,191634.0
+17,Kentucky ,Less than High School,441533.0
+18,Louisiana ,Less than High School,507775.0
+19,Maine ,Less than High School,78858.0
+20,Maryland ,Less than High School,464781.0
+21,Massachusetts ,Less than High School,484313.0
+22,Michigan ,Less than High School,716486.0
+23,Minnesota ,Less than High School,304899.0
+24,Mississippi ,Less than High School,335628.0
+25,Missouri ,Less than High School,455080.0
+26,Montana ,Less than High School,56734.0
+27,Nebraska ,Less than High School,118539.0
+28,Nevada ,Less than High School,315244.0
+29,New Hampshire ,Less than High School,79687.0
+30,New Jersey ,Less than High School,671261.0
+31,New Mexico ,Less than High School,231868.0
+32,New York ,Less than High School,1875373.0
+33,North Carolina ,Less than High School,940238.0
+34,North Dakota ,Less than High School,40487.0
+35,Ohio ,Less than High School,877037.0
+36,Oklahoma ,Less than High School,358860.0
+37,Oregon ,Less than High School,307059.0
+38,Pennsylvania ,Less than High School,948737.0
+39,Puerto Rico ,Less than High School,517066.0
+40,Rhode Island ,Less than High School,90345.0
+41,South Carolina ,Less than High School,475522.0
+42,South Dakota ,Less than High School,57510.0
+43,Tennessee ,Less than High School,630805.0
+44,Texas ,Less than High School,3274474.0
+45,Utah ,Less than High School,171951.0
+46,Vermont ,Less than High School,36021.0
+47,Virginia ,Less than High School,662746.0
+48,Washington ,Less than High School,533718.0
+49,West Virginia ,Less than High School,183495.0
+50,Wisconsin ,Less than High School,346861.0
+51,Wyoming ,Less than High School,27502.0
+52,Alabama ,Proportion Less than HS,0.128
+53,Alaska ,Proportion Less than HS,0.072
+54,Arizona ,Proportion Less than HS,0.127
+55,Arkansas ,Proportion Less than HS,0.124
+56,California ,Proportion Less than HS,0.152
+57,Colorado ,Proportion Less than HS,0.082
+58,Connecticut ,Proportion Less than HS,0.094
+59,Delaware ,Proportion Less than HS,0.098
+60,District of Columbia ,Proportion Less than HS,0.077
+61,Florida ,Proportion Less than HS,0.119
+62,Georgia ,Proportion Less than HS,0.125
+63,Hawaii ,Proportion Less than HS,0.076
+64,Idaho ,Proportion Less than HS,0.09
+65,Illinois ,Proportion Less than HS,0.103
+66,Indiana ,Proportion Less than HS,0.109
+67,Iowa ,Proportion Less than HS,0.078
+68,Kansas ,Proportion Less than HS,0.087
+69,Kentucky ,Proportion Less than HS,0.127
+70,Louisiana ,Proportion Less than HS,0.142
+71,Maine ,Proportion Less than HS,0.072
+72,Maryland ,Proportion Less than HS,0.099
+73,Massachusetts ,Proportion Less than HS,0.087
+74,Michigan ,Proportion Less than HS,0.091
+75,Minnesota ,Proportion Less than HS,0.07
+76,Mississippi ,Proportion Less than HS,0.147
+77,Missouri ,Proportion Less than HS,0.096
+78,Montana ,Proportion Less than HS,0.067
+79,Nebraska ,Proportion Less than HS,0.081
+80,Nevada ,Proportion Less than HS,0.132
+81,New Hampshire ,Proportion Less than HS,0.072
+82,New Jersey ,Proportion Less than HS,0.097
+83,New Mexico ,Proportion Less than HS,0.143
+84,New York ,Proportion Less than HS,0.122
+85,North Carolina ,Proportion Less than HS,0.115
+86,North Dakota ,Proportion Less than HS,0.069
+87,Ohio ,Proportion Less than HS,0.096
+88,Oklahoma ,Proportion Less than HS,0.119
+89,Oregon ,Proportion Less than HS,0.092
+90,Pennsylvania ,Proportion Less than HS,0.093
+91,Puerto Rico ,Proportion Less than HS,0.197
+92,Rhode Island ,Proportion Less than HS,0.106
+93,South Carolina ,Proportion Less than HS,0.118
+94,South Dakota ,Proportion Less than HS,0.086
+95,Tennessee ,Proportion Less than HS,0.119
+96,Texas ,Proportion Less than HS,0.152
+97,Utah ,Proportion Less than HS,0.076
+98,Vermont ,Proportion Less than HS,0.071
+99,Virginia ,Proportion Less than HS,0.099
+100,Washington ,Proportion Less than HS,0.09
+101,West Virginia ,Proportion Less than HS,0.128
+102,Wisconsin ,Proportion Less than HS,0.076
+103,Wyoming ,Proportion Less than HS,0.062
+104,Alabama ,High School through Associates,2407708.0
+105,Alaska ,High School through Associates,362981.0
+106,Arizona ,High School through Associates,3362992.0
+107,Arkansas ,High School through Associates,1529694.0
+108,California ,High School through Associates,16095970.0
+109,Colorado ,High School through Associates,2366635.0
+110,Connecticut ,High School through Associates,1519877.0
+111,Delaware ,High School through Associates,457622.0
+112,District of Columbia ,High School through Associates,215247.0
+113,Florida ,High School through Associates,10257332.0
+114,Georgia ,High School through Associates,4698365.0
+115,Hawaii ,High School through Associates,685949.0
+116,Idaho ,High School through Associates,868343.0
+117,Illinois ,High School through Associates,5558422.0
+118,Indiana ,High School through Associates,3318824.0
+119,Iowa ,High School through Associates,1590842.0
+120,Kansas ,High School through Associates,1337356.0
+121,Kentucky ,High School through Associates,2217966.0
+122,Louisiana ,High School through Associates,2235714.0
+123,Maine ,High School through Associates,676321.0
+124,Maryland ,High School through Associates,2453407.0
+125,Massachusetts ,High School through Associates,2739934.0
+126,Michigan ,High School through Associates,4946713.0
+127,Minnesota ,High School through Associates,2524769.0
+128,Mississippi ,High School through Associates,1480087.0
+129,Missouri ,High School through Associates,2973017.0
+130,Montana ,High School through Associates,526867.0
+131,Nebraska ,High School through Associates,891212.0
+132,Nevada ,High School through Associates,1508717.0
+133,New Hampshire ,High School through Associates,640336.0
+134,New Jersey ,High School through Associates,3580561.0
+135,New Mexico ,High School through Associates,981395.0
+136,New York ,High School through Associates,8065194.0
+137,North Carolina ,High School through Associates,4824175.0
+138,North Dakota ,High School through Associates,381130.0
+139,Ohio ,High School through Associates,5772615.0
+140,Oklahoma ,High School through Associates,1926691.0
+141,Oregon ,High School through Associates,1976358.0
+142,Pennsylvania ,High School through Associates,6149723.0
+143,Puerto Rico ,High School through Associates,1442254.0
+144,Rhode Island ,High School through Associates,491533.0
+145,South Carolina ,High School through Associates,2461757.0
+146,South Dakota ,High School through Associates,428569.0
+147,Tennessee ,High School through Associates,3267916.0
+148,Texas ,High School through Associates,12280704.0
+149,Utah ,High School through Associates,1413385.0
+150,Vermont ,High School through Associates,294307.0
+151,Virginia ,High School through Associates,3584304.0
+152,Washington ,High School through Associates,3385181.0
+153,West Virginia ,High School through Associates,964939.0
+154,Wisconsin ,High School through Associates,2889690.0
+155,Wyoming ,High School through Associates,298641.0
+156,Alabama ,Proportion HS through AA,0.631
+157,Alaska ,Proportion HS through AA,0.658
+158,Arizona ,Proportion HS through AA,0.596
+159,Arkansas ,Proportion HS through AA,0.66
+160,California ,Proportion HS through AA,0.526
+161,Colorado ,Proportion HS through AA,0.526
+162,Connecticut ,Proportion HS through AA,0.536
+163,Delaware ,Proportion HS through AA,0.594
+164,District of Columbia ,Proportion HS through AA,0.372
+165,Florida ,Proportion HS through AA,0.595
+166,Georgia ,Proportion HS through AA,0.579
+167,Hawaii ,Proportion HS through AA,0.615
+168,Idaho ,Proportion HS through AA,0.649
+169,Illinois ,Proportion HS through AA,0.564
+170,Indiana ,Proportion HS through AA,0.643
+171,Iowa ,Proportion HS through AA,0.654
+172,Kansas ,Proportion HS through AA,0.604
+173,Kentucky ,Proportion HS through AA,0.64
+174,Louisiana ,Proportion HS through AA,0.627
+175,Maine ,Proportion HS through AA,0.616
+176,Maryland ,Proportion HS through AA,0.521
+177,Massachusetts ,Proportion HS through AA,0.495
+178,Michigan ,Proportion HS through AA,0.631
+179,Minnesota ,Proportion HS through AA,0.582
+180,Mississippi ,Proportion HS through AA,0.65
+181,Missouri ,Proportion HS through AA,0.624
+182,Montana ,Proportion HS through AA,0.626
+183,Nebraska ,Proportion HS through AA,0.611
+184,Nevada ,Proportion HS through AA,0.631
+185,New Hampshire ,Proportion HS through AA,0.58
+186,New Jersey ,Proportion HS through AA,0.516
+187,New Mexico ,Proportion HS through AA,0.605
+188,New York ,Proportion HS through AA,0.523
+189,North Carolina ,Proportion HS through AA,0.589
+190,North Dakota ,Proportion HS through AA,0.651
+191,Ohio ,Proportion HS through AA,0.633
+192,Oklahoma ,Proportion HS through AA,0.641
+193,Oregon ,Proportion HS through AA,0.589
+194,Pennsylvania ,Proportion HS through AA,0.605
+195,Puerto Rico ,Proportion HS through AA,0.55
+196,Rhode Island ,Proportion HS through AA,0.574
+197,South Carolina ,Proportion HS through AA,0.61
+198,South Dakota ,Proportion HS through AA,0.64
+199,Tennessee ,Proportion HS through AA,0.614
+200,Texas ,Proportion HS through AA,0.569
+201,Utah ,Proportion HS through AA,0.621
+202,Vermont ,Proportion HS through AA,0.577
+203,Virginia ,Proportion HS through AA,0.537
+204,Washington ,Proportion HS through AA,0.569
+205,West Virginia ,Proportion HS through AA,0.673
+206,Wisconsin ,Proportion HS through AA,0.634
+207,Wyoming ,Proportion HS through AA,0.672
+208,Alabama ,Bachelor's or Higher,920353.0
+209,Alaska ,Bachelor's or Higher,149278.0
+210,Arizona ,Bachelor's or Higher,1562091.0
+211,Arkansas ,Bachelor's or Higher,500832.0
+212,California ,Bachelor's or Higher,9855894.0
+213,Colorado ,Bachelor's or Higher,1768000.0
+214,Connecticut ,Bachelor's or Higher,1050979.0
+215,Delaware ,Bachelor's or Higher,236461.0
+216,District of Columbia ,Bachelor's or Higher,318234.0
+217,Florida ,Bachelor's or Higher,4941169.0
+218,Georgia ,Bachelor's or Higher,2404931.0
+219,Hawaii ,Bachelor's or Higher,344995.0
+220,Idaho ,Bachelor's or Higher,349512.0
+221,Illinois ,Bachelor's or Higher,3280283.0
+222,Indiana ,Bachelor's or Higher,1284035.0
+223,Iowa ,Bachelor's or Higher,653682.0
+224,Kansas ,Bachelor's or Higher,684023.0
+225,Kentucky ,Bachelor's or Higher,806349.0
+226,Louisiana ,Bachelor's or Higher,820419.0
+227,Maine ,Bachelor's or Higher,342680.0
+228,Maryland ,Bachelor's or Higher,1795205.0
+229,Massachusetts ,Bachelor's or Higher,2316479.0
+230,Michigan ,Bachelor's or Higher,2180836.0
+231,Minnesota ,Bachelor's or Higher,1507295.0
+232,Mississippi ,Bachelor's or Higher,462014.0
+233,Missouri ,Bachelor's or Higher,1336636.0
+234,Montana ,Bachelor's or Higher,258653.0
+235,Nebraska ,Bachelor's or Higher,449561.0
+236,Nevada ,Bachelor's or Higher,565458.0
+237,New Hampshire ,Bachelor's or Higher,383668.0
+238,New Jersey ,Bachelor's or Higher,2692344.0
+239,New Mexico ,Bachelor's or Higher,409716.0
+240,New York ,Bachelor's or Higher,5490898.0
+241,North Carolina ,Bachelor's or Higher,2429699.0
+242,North Dakota ,Bachelor's or Higher,163739.0
+243,Ohio ,Bachelor's or Higher,2464601.0
+244,Oklahoma ,Bachelor's or Higher,719191.0
+245,Oregon ,Bachelor's or Higher,1071504.0
+246,Pennsylvania ,Bachelor's or Higher,3071204.0
+247,Puerto Rico ,Bachelor's or Higher,661640.0
+248,Rhode Island ,Bachelor's or Higher,273908.0
+249,South Carolina ,Bachelor's or Higher,1099135.0
+250,South Dakota ,Bachelor's or Higher,183311.0
+251,Tennessee ,Bachelor's or Higher,1419701.0
+252,Texas ,Bachelor's or Higher,6044072.0
+253,Utah ,Bachelor's or Higher,690314.0
+254,Vermont ,Bachelor's or Higher,180102.0
+255,Virginia ,Bachelor's or Higher,2430864.0
+256,Washington ,Bachelor's or Higher,2033029.0
+257,West Virginia ,Bachelor's or Higher,284895.0
+258,Wisconsin ,Bachelor's or Higher,1322471.0
+259,Wyoming ,Bachelor's or Higher,118427.0
+260,Alabama ,Proportion BA or Higher,0.241
+261,Alaska ,Proportion BA or Higher,0.271
+262,Arizona ,Proportion BA or Higher,0.277
+263,Arkansas ,Proportion BA or Higher,0.216
+264,California ,Proportion BA or Higher,0.322
+265,Colorado ,Proportion BA or Higher,0.393
+266,Connecticut ,Proportion BA or Higher,0.37
+267,Delaware ,Proportion BA or Higher,0.307
+268,District of Columbia ,Proportion BA or Higher,0.551
+269,Florida ,Proportion BA or Higher,0.287
+270,Georgia ,Proportion BA or Higher,0.296
+271,Hawaii ,Proportion BA or Higher,0.309
+272,Idaho ,Proportion BA or Higher,0.261
+273,Illinois ,Proportion BA or Higher,0.333
+274,Indiana ,Proportion BA or Higher,0.249
+275,Iowa ,Proportion BA or Higher,0.269
+276,Kansas ,Proportion BA or Higher,0.309
+277,Kentucky ,Proportion BA or Higher,0.233
+278,Louisiana ,Proportion BA or Higher,0.23
+279,Maine ,Proportion BA or Higher,0.312
+280,Maryland ,Proportion BA or Higher,0.381
+281,Massachusetts ,Proportion BA or Higher,0.418
+282,Michigan ,Proportion BA or Higher,0.278
+283,Minnesota ,Proportion BA or Higher,0.348
+284,Mississippi ,Proportion BA or Higher,0.203
+285,Missouri ,Proportion BA or Higher,0.281
+286,Montana ,Proportion BA or Higher,0.307
+287,Nebraska ,Proportion BA or Higher,0.308
+288,Nevada ,Proportion BA or Higher,0.237
+289,New Hampshire ,Proportion BA or Higher,0.348
+290,New Jersey ,Proportion BA or Higher,0.388
+291,New Mexico ,Proportion BA or Higher,0.252
+292,New York ,Proportion BA or Higher,0.356
+293,North Carolina ,Proportion BA or Higher,0.297
+294,North Dakota ,Proportion BA or Higher,0.28
+295,Ohio ,Proportion BA or Higher,0.27
+296,Oklahoma ,Proportion BA or Higher,0.239
+297,Oregon ,Proportion BA or Higher,0.319
+298,Pennsylvania ,Proportion BA or Higher,0.302
+299,Puerto Rico ,Proportion BA or Higher,0.252
+300,Rhode Island ,Proportion BA or Higher,0.32
+301,South Carolina ,Proportion BA or Higher,0.272
+302,South Dakota ,Proportion BA or Higher,0.274
+303,Tennessee ,Proportion BA or Higher,0.267
+304,Texas ,Proportion BA or Higher,0.28
+305,Utah ,Proportion BA or Higher,0.303
+306,Vermont ,Proportion BA or Higher,0.353
+307,Virginia ,Proportion BA or Higher,0.364
+308,Washington ,Proportion BA or Higher,0.342
+309,West Virginia ,Proportion BA or Higher,0.199
+310,Wisconsin ,Proportion BA or Higher,0.29
+311,Wyoming ,Proportion BA or Higher,0.266
+312,Alabama ,Total,3817588.0
+313,Alaska ,Total,551796.0
+314,Arizona ,Total,5639069.0
+315,Arkansas ,Total,2318792.0
+316,California ,Total,30621159.0
+317,Colorado ,Total,4502416.0
+318,Connecticut ,Total,2837855.0
+319,Delaware ,Total,769818.0
+320,District of Columbia ,Total,577848.0
+321,Florida ,Total,17245782.0
+322,Georgia ,Total,8114394.0
+323,Hawaii ,Total,1115685.0
+324,Idaho ,Total,1337710.0
+325,Illinois ,Total,9857142.0
+326,Indiana ,Total,5164798.0
+327,Iowa ,Total,2433240.0
+328,Kansas ,Total,2213013.0
+329,Kentucky ,Total,3465848.0
+330,Louisiana ,Total,3563908.0
+331,Maine ,Total,1097859.0
+332,Maryland ,Total,4713393.0
+333,Massachusetts ,Total,5540726.0
+334,Michigan ,Total,7844035.0
+335,Minnesota ,Total,4336963.0
+336,Mississippi ,Total,2277729.0
+337,Missouri ,Total,4764733.0
+338,Montana ,Total,842254.0
+339,Nebraska ,Total,1459312.0
+340,Nevada ,Total,2389419.0
+341,New Hampshire ,Total,1103691.0
+342,New Jersey ,Total,6944166.0
+343,New Mexico ,Total,1622979.0
+344,New York ,Total,15431465.0
+345,North Carolina ,Total,8194112.0
+346,North Dakota ,Total,585356.0
+347,Ohio ,Total,9114253.0
+348,Oklahoma ,Total,3004742.0
+349,Oregon ,Total,3354921.0
+350,Pennsylvania ,Total,10169664.0
+351,Puerto Rico ,Total,2620960.0
+352,Rhode Island ,Total,855786.0
+353,South Carolina ,Total,4036414.0
+354,South Dakota ,Total,669390.0
+355,Tennessee ,Total,5318422.0
+356,Texas ,Total,21599250.0
+357,Utah ,Total,2275650.0
+358,Vermont ,Total,510430.0
+359,Virginia ,Total,6677914.0
+360,Washington ,Total,5951928.0
+361,West Virginia ,Total,1433329.0
+362,Wisconsin ,Total,4559022.0
+363,Wyoming ,Total,444570.0
