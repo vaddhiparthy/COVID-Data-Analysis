@@ -1,365 +1,365 @@
-,State,variable,value
-0,Alabama ,Under 18 years,1085597.0
-1,Alaska ,Under 18 years,179749.0
-2,Arizona ,Under 18 years,1639648.0
-3,Arkansas ,Under 18 years,699012.0
-4,California ,Under 18 years,8891064.0
-5,Colorado ,Under 18 years,1256320.0
-6,Connecticut ,Under 18 years,727432.0
-7,Delaware ,Under 18 years,203946.0
-8,District of Columbia ,Under 18 years,127901.0
-9,Florida ,Under 18 years,4231955.0
-10,Georgia ,Under 18 years,2503029.0
-11,Hawaii ,Under 18 years,300187.0
-12,Idaho ,Under 18 years,449355.0
-13,Illinois ,Under 18 years,2814679.0
-14,Indiana ,Under 18 years,1567421.0
-15,Iowa ,Under 18 years,721830.0
-16,Kansas ,Under 18 years,700301.0
-17,Kentucky ,Under 18 years,1001825.0
-18,Louisiana ,Under 18 years,1084886.0
-19,Maine ,Under 18 years,246353.0
-20,Maryland ,Under 18 years,1332287.0
-21,Massachusetts ,Under 18 years,1351777.0
-22,Michigan ,Under 18 years,2142822.0
-23,Minnesota ,Under 18 years,1302669.0
-24,Mississippi ,Under 18 years,698420.0
-25,Missouri ,Under 18 years,1372695.0
-26,Montana ,Under 18 years,226524.0
-27,Nebraska ,Under 18 years,475096.0
-28,Nevada ,Under 18 years,690737.0
-29,New Hampshire ,Under 18 years,256020.0
-30,New Jersey ,Under 18 years,1938024.0
-31,New Mexico ,Under 18 years,473850.0
-32,New York ,Under 18 years,4022096.0
-33,North Carolina ,Under 18 years,2293972.0
-34,North Dakota ,Under 18 years,176706.0
-35,Ohio ,Under 18 years,2574847.0
-36,Oklahoma ,Under 18 years,952229.0
-37,Oregon ,Under 18 years,862816.0
-38,Pennsylvania ,Under 18 years,2632325.0
-39,Puerto Rico ,Under 18 years,572734.0
-40,Rhode Island ,Under 18 years,203575.0
-41,South Carolina ,Under 18 years,1112300.0
-42,South Dakota ,Under 18 years,215269.0
-43,Tennessee ,Under 18 years,1510752.0
-44,Texas ,Under 18 years,7396631.0
-45,Utah ,Under 18 years,930308.0
-46,Vermont ,Under 18 years,113559.0
-47,Virginia ,Under 18 years,1857605.0
-48,Washington ,Under 18 years,1662965.0
-49,West Virginia ,Under 18 years,358818.0
-50,Wisconsin ,Under 18 years,1263412.0
-51,Wyoming ,Under 18 years,134189.0
-52,Alabama ,18 to 64 years,2963276.0
-53,Alaska ,18 to 64 years,461208.0
-54,Arizona ,18 to 64 years,4331828.0
-55,Arkansas ,18 to 64 years,1794555.0
-56,California ,18 to 64 years,24786161.0
-57,Colorado ,18 to 64 years,3657038.0
-58,Connecticut ,18 to 64 years,2208823.0
-59,Delaware ,18 to 64 years,580180.0
-60,District of Columbia ,18 to 64 years,490311.0
-61,Florida ,18 to 64 years,12747584.0
-62,Georgia ,18 to 64 years,6591202.0
-63,Hawaii ,18 to 64 years,846215.0
-64,Idaho ,18 to 64 years,1049093.0
-65,Illinois ,18 to 64 years,7811781.0
-66,Indiana ,18 to 64 years,4080326.0
-67,Iowa ,18 to 64 years,1879665.0
-68,Kansas ,18 to 64 years,1735017.0
-69,Kentucky ,18 to 64 years,2711289.0
-70,Louisiana ,18 to 64 years,2821714.0
-71,Maine ,18 to 64 years,811881.0
-72,Maryland ,18 to 64 years,3753506.0
-73,Massachusetts ,18 to 64 years,4368433.0
-74,Michigan ,18 to 64 years,6077626.0
-75,Minnesota ,18 to 64 years,3415472.0
-76,Mississippi ,18 to 64 years,1790925.0
-77,Missouri ,18 to 64 years,3706790.0
-78,Montana ,18 to 64 years,634345.0
-79,Nebraska ,18 to 64 years,1147017.0
-80,Nevada ,18 to 64 years,1891200.0
-81,New Hampshire ,18 to 64 years,850544.0
-82,New Jersey ,18 to 64 years,5469091.0
-83,New Mexico ,18 to 64 years,1245249.0
-84,New York ,18 to 64 years,12135497.0
-85,North Carolina ,18 to 64 years,6443177.0
-86,North Dakota ,18 to 64 years,465179.0
-87,Ohio ,18 to 64 years,7070705.0
-88,Oklahoma ,18 to 64 years,2369520.0
-89,Oregon ,18 to 64 years,2587425.0
-90,Pennsylvania ,18 to 64 years,7781446.0
-91,Puerto Rico ,18 to 64 years,1941295.0
-92,Rhode Island ,18 to 64 years,668631.0
-93,South Carolina ,18 to 64 years,3100876.0
-94,South Dakota ,18 to 64 years,515591.0
-95,Tennessee ,18 to 64 years,4179457.0
-96,Texas ,18 to 64 years,17860523.0
-97,Utah ,18 to 64 years,1910452.0
-98,Vermont ,18 to 64 years,385229.0
-99,Virginia ,18 to 64 years,5319578.0
-100,Washington ,18 to 64 years,4744243.0
-101,West Virginia ,18 to 64 years,1065929.0
-102,Wisconsin ,18 to 64 years,3539126.0
-103,Wyoming ,18 to 64 years,345781.0
-104,Alabama ,65 years and over,854312.0
-105,Alaska ,65 years and over,90588.0
-106,Arizona ,65 years and over,1307241.0
-107,Arkansas ,65 years and over,524237.0
-108,California ,65 years and over,5834998.0
-109,Colorado ,65 years and over,845378.0
-110,Connecticut ,65 years and over,629032.0
-111,Delaware ,65 years and over,189638.0
-112,District of Columbia ,65 years and over,87537.0
-113,Florida ,65 years and over,4498198.0
-114,Georgia ,65 years and over,1523192.0
-115,Hawaii ,65 years and over,269470.0
-116,Idaho ,65 years and over,288617.0
-117,Illinois ,65 years and over,2045361.0
-118,Indiana ,65 years and over,1084472.0
-119,Iowa ,65 years and over,553575.0
-120,Kansas ,65 years and over,477996.0
-121,Kentucky ,65 years and over,754559.0
-122,Louisiana ,65 years and over,742194.0
-123,Maine ,65 years and over,285978.0
-124,Maryland ,65 years and over,959887.0
-125,Massachusetts ,65 years and over,1172293.0
-126,Michigan ,65 years and over,1766409.0
-127,Minnesota ,65 years and over,921491.0
-128,Mississippi ,65 years and over,486804.0
-129,Missouri ,65 years and over,1057943.0
-130,Montana ,65 years and over,207909.0
-131,Nebraska ,65 years and over,312295.0
-132,Nevada ,65 years and over,498219.0
-133,New Hampshire ,65 years and over,253147.0
-134,New Jersey ,65 years and over,1475075.0
-135,New Mexico ,65 years and over,377730.0
-136,New York ,65 years and over,3295968.0
-137,North Carolina ,65 years and over,1750935.0
-138,North Dakota ,65 years and over,120177.0
-139,Ohio ,65 years and over,2043548.0
-140,Oklahoma ,65 years and over,635222.0
-141,Oregon ,65 years and over,767496.0
-142,Pennsylvania ,65 years and over,2388218.0
-143,Puerto Rico ,65 years and over,679665.0
-144,Rhode Island ,65 years and over,187155.0
-145,South Carolina ,65 years and over,935538.0
-146,South Dakota ,65 years and over,153799.0
-147,Tennessee ,65 years and over,1138965.0
-148,Texas ,65 years and over,3738727.0
-149,Utah ,65 years and over,365198.0
-150,Vermont ,65 years and over,125201.0
-151,Virginia ,65 years and over,1358336.0
-152,Washington ,65 years and over,1207685.0
-153,West Virginia ,65 years and over,367400.0
-154,Wisconsin ,65 years and over,1019896.0
-155,Wyoming ,65 years and over,98789.0
-156,Alabama ,Total,4903185.0
-157,Alaska ,Total,731545.0
-158,Arizona ,Total,7278717.0
-159,Arkansas ,Total,3017804.0
-160,California ,Total,39512223.0
-161,Colorado ,Total,5758736.0
-162,Connecticut ,Total,3565287.0
-163,Delaware ,Total,973764.0
-164,District of Columbia ,Total,705749.0
-165,Florida ,Total,21477737.0
-166,Georgia ,Total,10617423.0
-167,Hawaii ,Total,1415872.0
-168,Idaho ,Total,1787065.0
-169,Illinois ,Total,12671821.0
-170,Indiana ,Total,6732219.0
-171,Iowa ,Total,3155070.0
-172,Kansas ,Total,2913314.0
-173,Kentucky ,Total,4467673.0
-174,Louisiana ,Total,4648794.0
-175,Maine ,Total,1344212.0
-176,Maryland ,Total,6045680.0
-177,Massachusetts ,Total,6892503.0
-178,Michigan ,Total,9986857.0
-179,Minnesota ,Total,5639632.0
-180,Mississippi ,Total,2976149.0
-181,Missouri ,Total,6137428.0
-182,Montana ,Total,1068778.0
-183,Nebraska ,Total,1934408.0
-184,Nevada ,Total,3080156.0
-185,New Hampshire ,Total,1359711.0
-186,New Jersey ,Total,8882190.0
-187,New Mexico ,Total,2096829.0
-188,New York ,Total,19453561.0
-189,North Carolina ,Total,10488084.0
-190,North Dakota ,Total,762062.0
-191,Ohio ,Total,11689100.0
-192,Oklahoma ,Total,3956971.0
-193,Oregon ,Total,4217737.0
-194,Pennsylvania ,Total,12801989.0
-195,Puerto Rico ,Total,3193694.0
-196,Rhode Island ,Total,1059361.0
-197,South Carolina ,Total,5148714.0
-198,South Dakota ,Total,884659.0
-199,Tennessee ,Total,6829174.0
-200,Texas ,Total,28995881.0
-201,Utah ,Total,3205958.0
-202,Vermont ,Total,623989.0
-203,Virginia ,Total,8535519.0
-204,Washington ,Total,7614893.0
-205,West Virginia ,Total,1792147.0
-206,Wisconsin ,Total,5822434.0
-207,Wyoming ,Total,578759.0
-208,Alabama ,Proportion under 18,0.221
-209,Alaska ,Proportion under 18,0.246
-210,Arizona ,Proportion under 18,0.225
-211,Arkansas ,Proportion under 18,0.232
-212,California ,Proportion under 18,0.225
-213,Colorado ,Proportion under 18,0.218
-214,Connecticut ,Proportion under 18,0.204
-215,Delaware ,Proportion under 18,0.209
-216,District of Columbia ,Proportion under 18,0.181
-217,Florida ,Proportion under 18,0.197
-218,Georgia ,Proportion under 18,0.236
-219,Hawaii ,Proportion under 18,0.212
-220,Idaho ,Proportion under 18,0.251
-221,Illinois ,Proportion under 18,0.222
-222,Indiana ,Proportion under 18,0.233
-223,Iowa ,Proportion under 18,0.229
-224,Kansas ,Proportion under 18,0.24
-225,Kentucky ,Proportion under 18,0.224
-226,Louisiana ,Proportion under 18,0.233
-227,Maine ,Proportion under 18,0.183
-228,Maryland ,Proportion under 18,0.22
-229,Massachusetts ,Proportion under 18,0.196
-230,Michigan ,Proportion under 18,0.215
-231,Minnesota ,Proportion under 18,0.231
-232,Mississippi ,Proportion under 18,0.235
-233,Missouri ,Proportion under 18,0.224
-234,Montana ,Proportion under 18,0.212
-235,Nebraska ,Proportion under 18,0.246
-236,Nevada ,Proportion under 18,0.224
-237,New Hampshire ,Proportion under 18,0.188
-238,New Jersey ,Proportion under 18,0.218
-239,New Mexico ,Proportion under 18,0.226
-240,New York ,Proportion under 18,0.207
-241,North Carolina ,Proportion under 18,0.219
-242,North Dakota ,Proportion under 18,0.232
-243,Ohio ,Proportion under 18,0.22
-244,Oklahoma ,Proportion under 18,0.241
-245,Oregon ,Proportion under 18,0.205
-246,Pennsylvania ,Proportion under 18,0.206
-247,Puerto Rico ,Proportion under 18,0.179
-248,Rhode Island ,Proportion under 18,0.192
-249,South Carolina ,Proportion under 18,0.216
-250,South Dakota ,Proportion under 18,0.243
-251,Tennessee ,Proportion under 18,0.221
-252,Texas ,Proportion under 18,0.255
-253,Utah ,Proportion under 18,0.29
-254,Vermont ,Proportion under 18,0.182
-255,Virginia ,Proportion under 18,0.218
-256,Washington ,Proportion under 18,0.218
-257,West Virginia ,Proportion under 18,0.2
-258,Wisconsin ,Proportion under 18,0.217
-259,Wyoming ,Proportion under 18,0.232
-260,Alabama ,Proportion between 18 and 64,0.604
-261,Alaska ,Proportion between 18 and 64,0.63
-262,Arizona ,Proportion between 18 and 64,0.595
-263,Arkansas ,Proportion between 18 and 64,0.595
-264,California ,Proportion between 18 and 64,0.627
-265,Colorado ,Proportion between 18 and 64,0.635
-266,Connecticut ,Proportion between 18 and 64,0.62
-267,Delaware ,Proportion between 18 and 64,0.596
-268,District of Columbia ,Proportion between 18 and 64,0.695
-269,Florida ,Proportion between 18 and 64,0.594
-270,Georgia ,Proportion between 18 and 64,0.621
-271,Hawaii ,Proportion between 18 and 64,0.598
-272,Idaho ,Proportion between 18 and 64,0.587
-273,Illinois ,Proportion between 18 and 64,0.616
-274,Indiana ,Proportion between 18 and 64,0.606
-275,Iowa ,Proportion between 18 and 64,0.596
-276,Kansas ,Proportion between 18 and 64,0.596
-277,Kentucky ,Proportion between 18 and 64,0.607
-278,Louisiana ,Proportion between 18 and 64,0.607
-279,Maine ,Proportion between 18 and 64,0.604
-280,Maryland ,Proportion between 18 and 64,0.621
-281,Massachusetts ,Proportion between 18 and 64,0.634
-282,Michigan ,Proportion between 18 and 64,0.609
-283,Minnesota ,Proportion between 18 and 64,0.606
-284,Mississippi ,Proportion between 18 and 64,0.602
-285,Missouri ,Proportion between 18 and 64,0.604
-286,Montana ,Proportion between 18 and 64,0.594
-287,Nebraska ,Proportion between 18 and 64,0.593
-288,Nevada ,Proportion between 18 and 64,0.614
-289,New Hampshire ,Proportion between 18 and 64,0.626
-290,New Jersey ,Proportion between 18 and 64,0.616
-291,New Mexico ,Proportion between 18 and 64,0.594
-292,New York ,Proportion between 18 and 64,0.624
-293,North Carolina ,Proportion between 18 and 64,0.614
-294,North Dakota ,Proportion between 18 and 64,0.61
-295,Ohio ,Proportion between 18 and 64,0.605
-296,Oklahoma ,Proportion between 18 and 64,0.599
-297,Oregon ,Proportion between 18 and 64,0.613
-298,Pennsylvania ,Proportion between 18 and 64,0.608
-299,Puerto Rico ,Proportion between 18 and 64,0.608
-300,Rhode Island ,Proportion between 18 and 64,0.631
-301,South Carolina ,Proportion between 18 and 64,0.602
-302,South Dakota ,Proportion between 18 and 64,0.583
-303,Tennessee ,Proportion between 18 and 64,0.612
-304,Texas ,Proportion between 18 and 64,0.616
-305,Utah ,Proportion between 18 and 64,0.596
-306,Vermont ,Proportion between 18 and 64,0.617
-307,Virginia ,Proportion between 18 and 64,0.623
-308,Washington ,Proportion between 18 and 64,0.623
-309,West Virginia ,Proportion between 18 and 64,0.595
-310,Wisconsin ,Proportion between 18 and 64,0.608
-311,Wyoming ,Proportion between 18 and 64,0.597
-312,Alabama ,Proportion 65 and older,0.174
-313,Alaska ,Proportion 65 and older,0.124
-314,Arizona ,Proportion 65 and older,0.18
-315,Arkansas ,Proportion 65 and older,0.174
-316,California ,Proportion 65 and older,0.148
-317,Colorado ,Proportion 65 and older,0.147
-318,Connecticut ,Proportion 65 and older,0.176
-319,Delaware ,Proportion 65 and older,0.195
-320,District of Columbia ,Proportion 65 and older,0.124
-321,Florida ,Proportion 65 and older,0.209
-322,Georgia ,Proportion 65 and older,0.143
-323,Hawaii ,Proportion 65 and older,0.19
-324,Idaho ,Proportion 65 and older,0.162
-325,Illinois ,Proportion 65 and older,0.161
-326,Indiana ,Proportion 65 and older,0.161
-327,Iowa ,Proportion 65 and older,0.175
-328,Kansas ,Proportion 65 and older,0.164
-329,Kentucky ,Proportion 65 and older,0.169
-330,Louisiana ,Proportion 65 and older,0.16
-331,Maine ,Proportion 65 and older,0.213
-332,Maryland ,Proportion 65 and older,0.159
-333,Massachusetts ,Proportion 65 and older,0.17
-334,Michigan ,Proportion 65 and older,0.177
-335,Minnesota ,Proportion 65 and older,0.163
-336,Mississippi ,Proportion 65 and older,0.164
-337,Missouri ,Proportion 65 and older,0.172
-338,Montana ,Proportion 65 and older,0.195
-339,Nebraska ,Proportion 65 and older,0.161
-340,Nevada ,Proportion 65 and older,0.162
-341,New Hampshire ,Proportion 65 and older,0.186
-342,New Jersey ,Proportion 65 and older,0.166
-343,New Mexico ,Proportion 65 and older,0.18
-344,New York ,Proportion 65 and older,0.169
-345,North Carolina ,Proportion 65 and older,0.167
-346,North Dakota ,Proportion 65 and older,0.158
-347,Ohio ,Proportion 65 and older,0.175
-348,Oklahoma ,Proportion 65 and older,0.161
-349,Oregon ,Proportion 65 and older,0.182
-350,Pennsylvania ,Proportion 65 and older,0.187
-351,Puerto Rico ,Proportion 65 and older,0.213
-352,Rhode Island ,Proportion 65 and older,0.177
-353,South Carolina ,Proportion 65 and older,0.182
-354,South Dakota ,Proportion 65 and older,0.174
-355,Tennessee ,Proportion 65 and older,0.167
-356,Texas ,Proportion 65 and older,0.129
-357,Utah ,Proportion 65 and older,0.114
-358,Vermont ,Proportion 65 and older,0.201
-359,Virginia ,Proportion 65 and older,0.159
-360,Washington ,Proportion 65 and older,0.159
-361,West Virginia ,Proportion 65 and older,0.205
-362,Wisconsin ,Proportion 65 and older,0.175
-363,Wyoming ,Proportion 65 and older,0.171
+State,variable,value
+Alabama ,Under 18 years,1085597.0
+Alaska ,Under 18 years,179749.0
+Arizona ,Under 18 years,1639648.0
+Arkansas ,Under 18 years,699012.0
+California ,Under 18 years,8891064.0
+Colorado ,Under 18 years,1256320.0
+Connecticut ,Under 18 years,727432.0
+Delaware ,Under 18 years,203946.0
+District of Columbia ,Under 18 years,127901.0
+Florida ,Under 18 years,4231955.0
+Georgia ,Under 18 years,2503029.0
+Hawaii ,Under 18 years,300187.0
+Idaho ,Under 18 years,449355.0
+Illinois ,Under 18 years,2814679.0
+Indiana ,Under 18 years,1567421.0
+Iowa ,Under 18 years,721830.0
+Kansas ,Under 18 years,700301.0
+Kentucky ,Under 18 years,1001825.0
+Louisiana ,Under 18 years,1084886.0
+Maine ,Under 18 years,246353.0
+Maryland ,Under 18 years,1332287.0
+Massachusetts ,Under 18 years,1351777.0
+Michigan ,Under 18 years,2142822.0
+Minnesota ,Under 18 years,1302669.0
+Mississippi ,Under 18 years,698420.0
+Missouri ,Under 18 years,1372695.0
+Montana ,Under 18 years,226524.0
+Nebraska ,Under 18 years,475096.0
+Nevada ,Under 18 years,690737.0
+New Hampshire ,Under 18 years,256020.0
+New Jersey ,Under 18 years,1938024.0
+New Mexico ,Under 18 years,473850.0
+New York ,Under 18 years,4022096.0
+North Carolina ,Under 18 years,2293972.0
+North Dakota ,Under 18 years,176706.0
+Ohio ,Under 18 years,2574847.0
+Oklahoma ,Under 18 years,952229.0
+Oregon ,Under 18 years,862816.0
+Pennsylvania ,Under 18 years,2632325.0
+Puerto Rico ,Under 18 years,572734.0
+Rhode Island ,Under 18 years,203575.0
+South Carolina ,Under 18 years,1112300.0
+South Dakota ,Under 18 years,215269.0
+Tennessee ,Under 18 years,1510752.0
+Texas ,Under 18 years,7396631.0
+Utah ,Under 18 years,930308.0
+Vermont ,Under 18 years,113559.0
+Virginia ,Under 18 years,1857605.0
+Washington ,Under 18 years,1662965.0
+West Virginia ,Under 18 years,358818.0
+Wisconsin ,Under 18 years,1263412.0
+Wyoming ,Under 18 years,134189.0
+Alabama ,18 to 64 years,2963276.0
+Alaska ,18 to 64 years,461208.0
+Arizona ,18 to 64 years,4331828.0
+Arkansas ,18 to 64 years,1794555.0
+California ,18 to 64 years,24786161.0
+Colorado ,18 to 64 years,3657038.0
+Connecticut ,18 to 64 years,2208823.0
+Delaware ,18 to 64 years,580180.0
+District of Columbia ,18 to 64 years,490311.0
+Florida ,18 to 64 years,12747584.0
+Georgia ,18 to 64 years,6591202.0
+Hawaii ,18 to 64 years,846215.0
+Idaho ,18 to 64 years,1049093.0
+Illinois ,18 to 64 years,7811781.0
+Indiana ,18 to 64 years,4080326.0
+Iowa ,18 to 64 years,1879665.0
+Kansas ,18 to 64 years,1735017.0
+Kentucky ,18 to 64 years,2711289.0
+Louisiana ,18 to 64 years,2821714.0
+Maine ,18 to 64 years,811881.0
+Maryland ,18 to 64 years,3753506.0
+Massachusetts ,18 to 64 years,4368433.0
+Michigan ,18 to 64 years,6077626.0
+Minnesota ,18 to 64 years,3415472.0
+Mississippi ,18 to 64 years,1790925.0
+Missouri ,18 to 64 years,3706790.0
+Montana ,18 to 64 years,634345.0
+Nebraska ,18 to 64 years,1147017.0
+Nevada ,18 to 64 years,1891200.0
+New Hampshire ,18 to 64 years,850544.0
+New Jersey ,18 to 64 years,5469091.0
+New Mexico ,18 to 64 years,1245249.0
+New York ,18 to 64 years,12135497.0
+North Carolina ,18 to 64 years,6443177.0
+North Dakota ,18 to 64 years,465179.0
+Ohio ,18 to 64 years,7070705.0
+Oklahoma ,18 to 64 years,2369520.0
+Oregon ,18 to 64 years,2587425.0
+Pennsylvania ,18 to 64 years,7781446.0
+Puerto Rico ,18 to 64 years,1941295.0
+Rhode Island ,18 to 64 years,668631.0
+South Carolina ,18 to 64 years,3100876.0
+South Dakota ,18 to 64 years,515591.0
+Tennessee ,18 to 64 years,4179457.0
+Texas ,18 to 64 years,17860523.0
+Utah ,18 to 64 years,1910452.0
+Vermont ,18 to 64 years,385229.0
+Virginia ,18 to 64 years,5319578.0
+Washington ,18 to 64 years,4744243.0
+West Virginia ,18 to 64 years,1065929.0
+Wisconsin ,18 to 64 years,3539126.0
+Wyoming ,18 to 64 years,345781.0
+Alabama ,65 years and over,854312.0
+Alaska ,65 years and over,90588.0
+Arizona ,65 years and over,1307241.0
+Arkansas ,65 years and over,524237.0
+California ,65 years and over,5834998.0
+Colorado ,65 years and over,845378.0
+Connecticut ,65 years and over,629032.0
+Delaware ,65 years and over,189638.0
+District of Columbia ,65 years and over,87537.0
+Florida ,65 years and over,4498198.0
+Georgia ,65 years and over,1523192.0
+Hawaii ,65 years and over,269470.0
+Idaho ,65 years and over,288617.0
+Illinois ,65 years and over,2045361.0
+Indiana ,65 years and over,1084472.0
+Iowa ,65 years and over,553575.0
+Kansas ,65 years and over,477996.0
+Kentucky ,65 years and over,754559.0
+Louisiana ,65 years and over,742194.0
+Maine ,65 years and over,285978.0
+Maryland ,65 years and over,959887.0
+Massachusetts ,65 years and over,1172293.0
+Michigan ,65 years and over,1766409.0
+Minnesota ,65 years and over,921491.0
+Mississippi ,65 years and over,486804.0
+Missouri ,65 years and over,1057943.0
+Montana ,65 years and over,207909.0
+Nebraska ,65 years and over,312295.0
+Nevada ,65 years and over,498219.0
+New Hampshire ,65 years and over,253147.0
+New Jersey ,65 years and over,1475075.0
+New Mexico ,65 years and over,377730.0
+New York ,65 years and over,3295968.0
+North Carolina ,65 years and over,1750935.0
+North Dakota ,65 years and over,120177.0
+Ohio ,65 years and over,2043548.0
+Oklahoma ,65 years and over,635222.0
+Oregon ,65 years and over,767496.0
+Pennsylvania ,65 years and over,2388218.0
+Puerto Rico ,65 years and over,679665.0
+Rhode Island ,65 years and over,187155.0
+South Carolina ,65 years and over,935538.0
+South Dakota ,65 years and over,153799.0
+Tennessee ,65 years and over,1138965.0
+Texas ,65 years and over,3738727.0
+Utah ,65 years and over,365198.0
+Vermont ,65 years and over,125201.0
+Virginia ,65 years and over,1358336.0
+Washington ,65 years and over,1207685.0
+West Virginia ,65 years and over,367400.0
+Wisconsin ,65 years and over,1019896.0
+Wyoming ,65 years and over,98789.0
+Alabama ,Total,4903185.0
+Alaska ,Total,731545.0
+Arizona ,Total,7278717.0
+Arkansas ,Total,3017804.0
+California ,Total,39512223.0
+Colorado ,Total,5758736.0
+Connecticut ,Total,3565287.0
+Delaware ,Total,973764.0
+District of Columbia ,Total,705749.0
+Florida ,Total,21477737.0
+Georgia ,Total,10617423.0
+Hawaii ,Total,1415872.0
+Idaho ,Total,1787065.0
+Illinois ,Total,12671821.0
+Indiana ,Total,6732219.0
+Iowa ,Total,3155070.0
+Kansas ,Total,2913314.0
+Kentucky ,Total,4467673.0
+Louisiana ,Total,4648794.0
+Maine ,Total,1344212.0
+Maryland ,Total,6045680.0
+Massachusetts ,Total,6892503.0
+Michigan ,Total,9986857.0
+Minnesota ,Total,5639632.0
+Mississippi ,Total,2976149.0
+Missouri ,Total,6137428.0
+Montana ,Total,1068778.0
+Nebraska ,Total,1934408.0
+Nevada ,Total,3080156.0
+New Hampshire ,Total,1359711.0
+New Jersey ,Total,8882190.0
+New Mexico ,Total,2096829.0
+New York ,Total,19453561.0
+North Carolina ,Total,10488084.0
+North Dakota ,Total,762062.0
+Ohio ,Total,11689100.0
+Oklahoma ,Total,3956971.0
+Oregon ,Total,4217737.0
+Pennsylvania ,Total,12801989.0
+Puerto Rico ,Total,3193694.0
+Rhode Island ,Total,1059361.0
+South Carolina ,Total,5148714.0
+South Dakota ,Total,884659.0
+Tennessee ,Total,6829174.0
+Texas ,Total,28995881.0
+Utah ,Total,3205958.0
+Vermont ,Total,623989.0
+Virginia ,Total,8535519.0
+Washington ,Total,7614893.0
+West Virginia ,Total,1792147.0
+Wisconsin ,Total,5822434.0
+Wyoming ,Total,578759.0
+Alabama ,Proportion under 18,0.221
+Alaska ,Proportion under 18,0.246
+Arizona ,Proportion under 18,0.225
+Arkansas ,Proportion under 18,0.232
+California ,Proportion under 18,0.225
+Colorado ,Proportion under 18,0.218
+Connecticut ,Proportion under 18,0.204
+Delaware ,Proportion under 18,0.209
+District of Columbia ,Proportion under 18,0.181
+Florida ,Proportion under 18,0.197
+Georgia ,Proportion under 18,0.236
+Hawaii ,Proportion under 18,0.212
+Idaho ,Proportion under 18,0.251
+Illinois ,Proportion under 18,0.222
+Indiana ,Proportion under 18,0.233
+Iowa ,Proportion under 18,0.229
+Kansas ,Proportion under 18,0.24
+Kentucky ,Proportion under 18,0.224
+Louisiana ,Proportion under 18,0.233
+Maine ,Proportion under 18,0.183
+Maryland ,Proportion under 18,0.22
+Massachusetts ,Proportion under 18,0.196
+Michigan ,Proportion under 18,0.215
+Minnesota ,Proportion under 18,0.231
+Mississippi ,Proportion under 18,0.235
+Missouri ,Proportion under 18,0.224
+Montana ,Proportion under 18,0.212
+Nebraska ,Proportion under 18,0.246
+Nevada ,Proportion under 18,0.224
+New Hampshire ,Proportion under 18,0.188
+New Jersey ,Proportion under 18,0.218
+New Mexico ,Proportion under 18,0.226
+New York ,Proportion under 18,0.207
+North Carolina ,Proportion under 18,0.219
+North Dakota ,Proportion under 18,0.232
+Ohio ,Proportion under 18,0.22
+Oklahoma ,Proportion under 18,0.241
+Oregon ,Proportion under 18,0.205
+Pennsylvania ,Proportion under 18,0.206
+Puerto Rico ,Proportion under 18,0.179
+Rhode Island ,Proportion under 18,0.192
+South Carolina ,Proportion under 18,0.216
+South Dakota ,Proportion under 18,0.243
+Tennessee ,Proportion under 18,0.221
+Texas ,Proportion under 18,0.255
+Utah ,Proportion under 18,0.29
+Vermont ,Proportion under 18,0.182
+Virginia ,Proportion under 18,0.218
+Washington ,Proportion under 18,0.218
+West Virginia ,Proportion under 18,0.2
+Wisconsin ,Proportion under 18,0.217
+Wyoming ,Proportion under 18,0.232
+Alabama ,Proportion between 18 and 64,0.604
+Alaska ,Proportion between 18 and 64,0.63
+Arizona ,Proportion between 18 and 64,0.595
+Arkansas ,Proportion between 18 and 64,0.595
+California ,Proportion between 18 and 64,0.627
+Colorado ,Proportion between 18 and 64,0.635
+Connecticut ,Proportion between 18 and 64,0.62
+Delaware ,Proportion between 18 and 64,0.596
+District of Columbia ,Proportion between 18 and 64,0.695
+Florida ,Proportion between 18 and 64,0.594
+Georgia ,Proportion between 18 and 64,0.621
+Hawaii ,Proportion between 18 and 64,0.598
+Idaho ,Proportion between 18 and 64,0.587
+Illinois ,Proportion between 18 and 64,0.616
+Indiana ,Proportion between 18 and 64,0.606
+Iowa ,Proportion between 18 and 64,0.596
+Kansas ,Proportion between 18 and 64,0.596
+Kentucky ,Proportion between 18 and 64,0.607
+Louisiana ,Proportion between 18 and 64,0.607
+Maine ,Proportion between 18 and 64,0.604
+Maryland ,Proportion between 18 and 64,0.621
+Massachusetts ,Proportion between 18 and 64,0.634
+Michigan ,Proportion between 18 and 64,0.609
+Minnesota ,Proportion between 18 and 64,0.606
+Mississippi ,Proportion between 18 and 64,0.602
+Missouri ,Proportion between 18 and 64,0.604
+Montana ,Proportion between 18 and 64,0.594
+Nebraska ,Proportion between 18 and 64,0.593
+Nevada ,Proportion between 18 and 64,0.614
+New Hampshire ,Proportion between 18 and 64,0.626
+New Jersey ,Proportion between 18 and 64,0.616
+New Mexico ,Proportion between 18 and 64,0.594
+New York ,Proportion between 18 and 64,0.624
+North Carolina ,Proportion between 18 and 64,0.614
+North Dakota ,Proportion between 18 and 64,0.61
+Ohio ,Proportion between 18 and 64,0.605
+Oklahoma ,Proportion between 18 and 64,0.599
+Oregon ,Proportion between 18 and 64,0.613
+Pennsylvania ,Proportion between 18 and 64,0.608
+Puerto Rico ,Proportion between 18 and 64,0.608
+Rhode Island ,Proportion between 18 and 64,0.631
+South Carolina ,Proportion between 18 and 64,0.602
+South Dakota ,Proportion between 18 and 64,0.583
+Tennessee ,Proportion between 18 and 64,0.612
+Texas ,Proportion between 18 and 64,0.616
+Utah ,Proportion between 18 and 64,0.596
+Vermont ,Proportion between 18 and 64,0.617
+Virginia ,Proportion between 18 and 64,0.623
+Washington ,Proportion between 18 and 64,0.623
+West Virginia ,Proportion between 18 and 64,0.595
+Wisconsin ,Proportion between 18 and 64,0.608
+Wyoming ,Proportion between 18 and 64,0.597
+Alabama ,Proportion 65 and older,0.174
+Alaska ,Proportion 65 and older,0.124
+Arizona ,Proportion 65 and older,0.18
+Arkansas ,Proportion 65 and older,0.174
+California ,Proportion 65 and older,0.148
+Colorado ,Proportion 65 and older,0.147
+Connecticut ,Proportion 65 and older,0.176
+Delaware ,Proportion 65 and older,0.195
+District of Columbia ,Proportion 65 and older,0.124
+Florida ,Proportion 65 and older,0.209
+Georgia ,Proportion 65 and older,0.143
+Hawaii ,Proportion 65 and older,0.19
+Idaho ,Proportion 65 and older,0.162
+Illinois ,Proportion 65 and older,0.161
+Indiana ,Proportion 65 and older,0.161
+Iowa ,Proportion 65 and older,0.175
+Kansas ,Proportion 65 and older,0.164
+Kentucky ,Proportion 65 and older,0.169
+Louisiana ,Proportion 65 and older,0.16
+Maine ,Proportion 65 and older,0.213
+Maryland ,Proportion 65 and older,0.159
+Massachusetts ,Proportion 65 and older,0.17
+Michigan ,Proportion 65 and older,0.177
+Minnesota ,Proportion 65 and older,0.163
+Mississippi ,Proportion 65 and older,0.164
+Missouri ,Proportion 65 and older,0.172
+Montana ,Proportion 65 and older,0.195
+Nebraska ,Proportion 65 and older,0.161
+Nevada ,Proportion 65 and older,0.162
+New Hampshire ,Proportion 65 and older,0.186
+New Jersey ,Proportion 65 and older,0.166
+New Mexico ,Proportion 65 and older,0.18
+New York ,Proportion 65 and older,0.169
+North Carolina ,Proportion 65 and older,0.167
+North Dakota ,Proportion 65 and older,0.158
+Ohio ,Proportion 65 and older,0.175
+Oklahoma ,Proportion 65 and older,0.161
+Oregon ,Proportion 65 and older,0.182
+Pennsylvania ,Proportion 65 and older,0.187
+Puerto Rico ,Proportion 65 and older,0.213
+Rhode Island ,Proportion 65 and older,0.177
+South Carolina ,Proportion 65 and older,0.182
+South Dakota ,Proportion 65 and older,0.174
+Tennessee ,Proportion 65 and older,0.167
+Texas ,Proportion 65 and older,0.129
+Utah ,Proportion 65 and older,0.114
+Vermont ,Proportion 65 and older,0.201
+Virginia ,Proportion 65 and older,0.159
+Washington ,Proportion 65 and older,0.159
+West Virginia ,Proportion 65 and older,0.205
+Wisconsin ,Proportion 65 and older,0.175
+Wyoming ,Proportion 65 and older,0.171

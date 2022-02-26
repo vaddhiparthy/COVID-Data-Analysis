@@ -1,54 +1,54 @@
-,State,Median Income,Mean Income
-0,Alabama ,42414.0,55985.0
-1,Alaska ,54311.0,66176.0
-2,Arizona ,45667.0,61045.0
-3,Arkansas ,40345.0,53689.0
-4,California ,52566.0,77330.0
-5,Colorado ,53957.0,72952.0
-6,Connecticut ,61295.0,86624.0
-7,Delaware ,51421.0,66777.0
-8,District of Columbia ,80445.0,103354.0
-9,Florida ,41299.0,58265.0
-10,Georgia ,45203.0,62457.0
-11,Hawaii ,50223.0,62599.0
-12,Idaho ,43184.0,57029.0
-13,Illinois ,51855.0,71175.0
-14,Indiana ,45475.0,59941.0
-15,Iowa ,47081.0,59505.0
-16,Kansas ,46481.0,60178.0
-17,Kentucky ,42834.0,55887.0
-18,Louisiana ,43919.0,58056.0
-19,Maine ,46246.0,58676.0
-20,Maryland ,60744.0,78962.0
-21,Massachusetts ,63353.0,85762.0
-22,Michigan ,48721.0,63827.0
-23,Minnesota ,54202.0,70898.0
-24,Mississippi ,39121.0,51026.0
-25,Missouri ,45427.0,59284.0
-26,Montana ,43131.0,57827.0
-27,Nebraska ,46645.0,59417.0
-28,Nevada ,42642.0,60149.0
-29,New Hampshire ,55283.0,72048.0
-30,New Jersey ,61002.0,85284.0
-31,New Mexico ,41615.0,55313.0
-32,New York ,56393.0,80779.0
-33,North Carolina ,43670.0,60566.0
-34,North Dakota ,50023.0,62755.0
-35,Ohio ,47496.0,61821.0
-36,Oklahoma ,42051.0,56695.0
-37,Oregon ,50712.0,67049.0
-38,Pennsylvania ,50626.0,66940.0
-39,Puerto Rico ,23110.0,33734.0
-40,Rhode Island ,52157.0,67582.0
-41,South Carolina ,42237.0,57538.0
-42,South Dakota ,43750.0,55431.0
-43,Tennessee ,42395.0,59165.0
-44,Texas ,46434.0,63806.0
-45,United States ,49898.0,67687.0
-46,Utah ,49373.0,65226.0
-47,Vermont ,49842.0,60545.0
-48,Virginia ,53087.0,73890.0
-49,Washington ,58341.0,78254.0
-50,West Virginia ,41322.0,53282.0
-51,Wisconsin ,49080.0,61325.0
-52,Wyoming ,49239.0,60298.0
+State,Median Income,Mean Income
+Alabama ,42414.0,55985.0
+Alaska ,54311.0,66176.0
+Arizona ,45667.0,61045.0
+Arkansas ,40345.0,53689.0
+California ,52566.0,77330.0
+Colorado ,53957.0,72952.0
+Connecticut ,61295.0,86624.0
+Delaware ,51421.0,66777.0
+District of Columbia ,80445.0,103354.0
+Florida ,41299.0,58265.0
+Georgia ,45203.0,62457.0
+Hawaii ,50223.0,62599.0
+Idaho ,43184.0,57029.0
+Illinois ,51855.0,71175.0
+Indiana ,45475.0,59941.0
+Iowa ,47081.0,59505.0
+Kansas ,46481.0,60178.0
+Kentucky ,42834.0,55887.0
+Louisiana ,43919.0,58056.0
+Maine ,46246.0,58676.0
+Maryland ,60744.0,78962.0
+Massachusetts ,63353.0,85762.0
+Michigan ,48721.0,63827.0
+Minnesota ,54202.0,70898.0
+Mississippi ,39121.0,51026.0
+Missouri ,45427.0,59284.0
+Montana ,43131.0,57827.0
+Nebraska ,46645.0,59417.0
+Nevada ,42642.0,60149.0
+New Hampshire ,55283.0,72048.0
+New Jersey ,61002.0,85284.0
+New Mexico ,41615.0,55313.0
+New York ,56393.0,80779.0
+North Carolina ,43670.0,60566.0
+North Dakota ,50023.0,62755.0
+Ohio ,47496.0,61821.0
+Oklahoma ,42051.0,56695.0
+Oregon ,50712.0,67049.0
+Pennsylvania ,50626.0,66940.0
+Puerto Rico ,23110.0,33734.0
+Rhode Island ,52157.0,67582.0
+South Carolina ,42237.0,57538.0
+South Dakota ,43750.0,55431.0
+Tennessee ,42395.0,59165.0
+Texas ,46434.0,63806.0
+United States ,49898.0,67687.0
+Utah ,49373.0,65226.0
+Vermont ,49842.0,60545.0
+Virginia ,53087.0,73890.0
+Washington ,58341.0,78254.0
+West Virginia ,41322.0,53282.0
+Wisconsin ,49080.0,61325.0
+Wyoming ,49239.0,60298.0

@@ -60,8 +60,8 @@ education = education[['State', 'Less than High School', 'Proportion Less than H
 #long format
 education_long = education.melt(id_vars=['State'])
 #Export long/wide formats
-education.to_csv('education_wide.csv')
-education_long.to_csv('education_long.csv')
+education.to_csv('education_wide.csv', index=False)
+education_long.to_csv('education_long.csv', index=False)
 
 
 #Income Data - Includes national estimates
@@ -78,8 +78,8 @@ income['State'] = income['State'].str.replace('Total Estimate', '')
 #long format
 income_long = income.melt(id_vars=['State'])
 #Export long/wide formats
-income.to_csv('income_wide.csv')
-income_long.to_csv('income_long.csv')
+income.to_csv('income_wide.csv', index=False)
+income_long.to_csv('income_long.csv', index=False)
 
 
 #Age Data
@@ -98,5 +98,5 @@ ages['State'] = ages['State'].str.replace('Total Estimate', '')
 #long format
 ages_long = ages.melt(id_vars=['State'])
 #Export long/wide formats
-ages.to_csv('ages_wide.csv')
-ages_long.to_csv('ages_long.csv')
+ages.to_csv('ages_wide.csv', index=False)
+ages_long.to_csv('ages_long.csv', index=False)
