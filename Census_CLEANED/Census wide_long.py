@@ -32,6 +32,7 @@ pov_2['Percent Estimate'] = pov_2['Below Poverty Estimate'] / pov_2['Total Estim
 pov_2 = pov_2.reset_index()
 #long format
 pov_long = pov_2.melt(id_vars=['State'])
+pov_long = pov_long.rename({'Label': 'Poverty/Total Pop', 'value': 'Poverty/Total Pop Count'}, axis = 1)
 #Exported long/wide data format
 pov_long.to_csv('poverty_long.csv', index=False)
 pov_2.to_csv('poverty_wide.csv', index=False)
@@ -59,6 +60,7 @@ education = education[['State', 'Less than High School', 'Proportion Less than H
                        'Proportion HS through AA', "Bachelor's or Higher", 'Proportion BA or Higher', 'Total']]
 #long format
 education_long = education.melt(id_vars=['State'])
+education_long = education_long.rename({'variable': 'Education Level', 'value': 'Education Count'}, axis = 1)
 #Export long/wide formats
 education.to_csv('education_wide.csv', index=False)
 education_long.to_csv('education_long.csv', index=False)
@@ -77,6 +79,7 @@ income = income.reset_index().rename({'index': 'State'}, axis=1)
 income['State'] = income['State'].str.replace('Total Estimate', '')
 #long format
 income_long = income.melt(id_vars=['State'])
+income_long = income_long.rename({'variable': 'Mean/Median Income', 'value': 'Value'}, axis = 1)
 #Export long/wide formats
 income.to_csv('income_wide.csv', index=False)
 income_long.to_csv('income_long.csv', index=False)
@@ -97,6 +100,15 @@ ages = ages.reset_index().rename({'index': 'State'}, axis=1)
 ages['State'] = ages['State'].str.replace('Total Estimate', '')
 #long format
 ages_long = ages.melt(id_vars=['State'])
+ages_long = ages_long.rename({'variable': 'Age Group', 'value': 'Age Group Count'}, axis = 1)
 #Export long/wide formats
 ages.to_csv('ages_wide.csv', index=False)
 ages_long.to_csv('ages_long.csv', index=False)
+
+
+
+
+
+
+
+({'Label': 'Poverty/Total Pop', 'value_y': 'Poverty/Total Pop Count'})
