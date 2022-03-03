@@ -1,2 +1,2 @@
 # COVID-Data-Analysis
-# This project analyses covid data from cdc
+# This project analyses covid data from CDC.
