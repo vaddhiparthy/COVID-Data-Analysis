@@ -7,6 +7,7 @@ age_clean = pd.read_csv('age_sex_cleaned.csv')
 edu_clean = pd.read_csv('education_cleaned.csv')
 income_clean = pd.read_csv('income_cleaned.csv')
 pov_clean = pd.read_csv('poverty_cleaned.csv')
+census_wide = pd.read_csv('census_wide_final.csv')
 
 #Loading CDC Case data
 vaccine = pd.read_csv('Vaccine.csv')
@@ -78,3 +79,20 @@ plt.legend()
 plt.figure(dpi=600)
 sns.boxplot(data=ages.iloc[:,4:7], orient='h').set(xlabel = 'Percent of Total Population')
 plt.title("Age Levels for US States, D.C., and Puerto Rico")
+
+#Visualizations
+import seaborn as sns
+import matplotlib.pyplot as plt
+#Visualize dataset
+sns.set(rc = {'figure.dpi': 450, 'savefig.dpi': 450})
+sns.pairplot(data = census_wide)
+covariate_scatter = sns.pairplot(data = census_wide, 
+                         x_vars = ['Series_Complete_Pop_Pct','Admin/Distrib', 
+                                   'Proportion under 18','Proportion between 18 and 64', 
+                                   'Proportion 65 and older', 'Proportion Less than HS',
+                                'Proportion HS through AA', 'Proportion BA or Higher', 
+                                'Poverty Estimate'],
+                         y_vars = ['Additional_Doses_Vax_Pct', 'Series_Complete_Pop_Pct'])
+covariate_scatter = covariate_scatter.fig.suptitle("Scatter Plots of Covariates",
+                                                   fontsize = 22)
+plt.tight_layout(pad = 1.3)
