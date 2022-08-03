@@ -8,8 +8,12 @@ The data aggregation had a weekly resolution when presenting the visualization o
 
 The results are visualizations of various metrics and statistical analysis results when considering their interdependencies and variation along the time axis. The ARIMA model tuning and analysis of the error metrics have pointed toward increasing the data resolution from weekly to daily data points which resulted in an accurate ARIMA model.
 
-Files here show:
-Data wrangling
-Data cleaning
-Feature engineering and exploratory data analysis
-ARIMA modeling and beta regressions
+### Files here show:
+#### Various Datasets (Primarily from CDC)
+#### Project Report
+#### ARIMA Model Accuracy Report
+#### Jupyter Notebook with the below:
+##### Data wrangling
+##### Data cleaning
+##### Feature engineering and exploratory data analysis
+##### ARIMA modeling and beta regressions
