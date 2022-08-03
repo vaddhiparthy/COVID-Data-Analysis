@@ -1,4 +1,4 @@
-# COVID-Data-Analysis
+# COVID Data Analysis
 
 The project presents the COVID-19 situation in the United States until March 2022 using the most reliable sources of data. Various metrics used by the public when they are having a conversation about the COVID-19 situation have been identified.
 
@@ -8,8 +8,8 @@ The data aggregation had a weekly resolution when presenting the visualization o
 
 The results are visualizations of various metrics and statistical analysis results when considering their interdependencies and variation along the time axis. The ARIMA model tuning and analysis of the error metrics have pointed toward increasing the data resolution from weekly to daily data points which resulted in an accurate ARIMA model.
 
-# Files here show:
-#   Data wrangling
-#   Data cleaning
-#   Feature engineering and exploratory data analysis
-#   ARIMA modeling and beta regressions
+Files here show:
+Data wrangling
+Data cleaning
+Feature engineering and exploratory data analysis
+ARIMA modeling and beta regressions
